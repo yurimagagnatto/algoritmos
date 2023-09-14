@@ -366,6 +366,7 @@ switch (day) {
 ## Exercícios
 
 1 - Calculo IMC
+
 2 - Faça um Programa que leia três números e mostre-os em ordem decrescente.
 
 ## Referências
