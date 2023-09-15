@@ -40,9 +40,15 @@ int main() {
 - **using namespace std** — Serve para usar os recursos de entrada e saída da biblioteca iostream (importada anteriormente).
 - Todo programa em C++ deve incluir uma função **main**. Se você tentar compilar um programa em C++ sem a função main, o compilador irá gerar um erro.
 
-## DEV C++
+## IDE
+
+### DEV C++
 
 **Dev-C++** é um ambiente de desenvolvimento integrado (IDE) C e C++ completo para plataformas Windows.
+
+### Visual Studio Code
+
+O **Visual Studio Code** é um editor de código redefinido e otimizado para criar e depurar aplicativos modernos da Web e da nuvem.
 
 ## Variável
 
@@ -381,6 +387,7 @@ switch (day) {
 - Lopes, A., Garcia, G. (2002). Introdução à programação: 500 algoritmos resolvidos. Brasil: Campus.
 - [Documentação do C++ – introdução, tutoriais, referência. | Microsoft Learn](https://learn.microsoft.com/pt-br/cpp/cpp/)
 - [C++ – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/C%2B%2B)
+- [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
 - [Online C++ Compiler | Programiz](https://www.programiz.com/cpp-programming/online-compiler/)
 - [Dev-C++ Official Website](https://www.bloodshed.net/)
 - [ListaDeExercicios - PythonBrasil](https://wiki.python.org.br/ListaDeExercicios)
