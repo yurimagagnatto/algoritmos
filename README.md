@@ -365,9 +365,16 @@ switch (day) {
 
 ## Exercícios
 
-1 - Calculo IMC
+1 - Faça uma calculadora de IMC (índice de massa corporal).
 
-2 - Faça um Programa que leia três números e mostre-os em ordem decrescente.
+2 - Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o resto da divisão.
+
+3 - Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é:
+- par ou ímpar;
+- positivo ou negativo;
+- inteiro ou decimal.
+
+4 - Faça um Programa que leia três números e mostre-os em ordem decrescente.
 
 ## Referências
 
