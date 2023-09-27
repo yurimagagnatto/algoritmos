@@ -1,4 +1,6 @@
-# Algoritmos
+# Introdução a algoritmos e C++
+
+[VOLTAR](/readme.md)
 
 - Lógica de programação e a tecnica de encadear pensamentos para
 atingir determinado objetivo.
@@ -280,116 +282,9 @@ int numero_inteiro;
 cin >> numero_inteiro;
 ```
 
-## Estruturas de seleção (expressão condicional)
-
-É uma estrutura de controle que executa um ou mais comandos se a condição testada for verdadeira e, em alguns casos, executa um ou mais comandos se for falsa.
-
-### Seleção Simples - SE (IF)
-
-```cpp
-if (x == 2) { // SE condição for VERDADEIRA
-
-  // Código que é executado se a condição for VERDADEIRA
-  
-}
-```
-
-### Seleção Composta - SE, SENÃO (IF, ELSE)
-
-```cpp
-if (x == 2) { // SE condição for VERDADEIRA
-
-  // Código que é executado se a condição for VERDADEIRA
-
-} else { // SENÃO
-
-  // Código que é executado se não cair na condição acima
-
-}
-```
-
-### SEs aninhados
-
-```cpp
-if (x == 2) { // SE condição for VERDADEIRA
-
-  // SE x for igual a 2
-
-  if (y == 3) {
-
-    // SE x for igual a 2 e y for igual a 3
-
-  } else { // SENÃO
-
-    // SE x for igual a 2 e y não for 3
-
-  }
-
-} else { // SENÃO
-
-  // SE x não for 2
-
-  if (y == 3) { // SE condição for VERDADEIRA
-
-    // SE x não for 2 e y for igual a 3
-
-  } else { // SENÃO
-
-    // SE x não for 2 e y não for 3
-
-  }
-
-}
-```
-
-### Alternativa de múltiplas escolhas - SWITCH CASE
-
-É uma alternativa aos blocos de condicionais aninhados, aprimorando a estrutura do algoritmo.
-
-```cpp
-int day = 4;
-switch (day) {
-  case 1:
-    cout << "Segunda-feira";
-    break;
-  case 2:
-    cout << "Terça-feira";
-    break;
-  case 3:
-    cout << "Quarta-feira";
-    break;
-  case 4:
-    cout << "Quinta-feira";
-    break;
-  case 5:
-    cout << "Sexta-feira";
-    break;
-  default:
-    cout << "Qualquer dia";
-}
-```
-
-## Exercícios
-
-1. Faça uma calculadora de IMC (Índice de Massa Corporal).
-
-2. Faça um programa que peça um número inteiro e determine se ele é par ou ímpar. Dica: utilize o resto da divisão.
-
-3. Faça um programa que leia três números e mostre-os em ordem crescente.
-
-4. Faça um jogo de par ou ímpar.
-
-    - Peça ao usuário que informe se o primeiro jogador escolhe par ou ímpar.
-
-    - Peça ao usuário informar o número escolhido pelo primeiro jogador.
-
-    - Peça ao usuário informar o número escolhido pelo segundo jogador.
-
-    - Mostre qual foi o jogador vencedor.
-
 ## Referências
 
-- Lopes, A., Garcia, G. (2002). Introdução à programação: 500 algoritmos resolvidos. Brasil: Campus.
+- LOPES, A.; GARCIA, G. Introdução à programação: 500 algoritmos resolvidos. [s.l.] Campus, 2002.
 
 - [Documentação do C++ – introdução, tutoriais, referência. | Microsoft Learn](https://learn.microsoft.com/pt-br/cpp/cpp/)
 
@@ -400,5 +295,3 @@ switch (day) {
 - [Online C++ Compiler | Programiz](https://www.programiz.com/cpp-programming/online-compiler/)
 
 - [Dev-C++ Official Website](https://www.bloodshed.net/)
-
-- [ListaDeExercicios - PythonBrasil](https://wiki.python.org.br/ListaDeExercicios)
