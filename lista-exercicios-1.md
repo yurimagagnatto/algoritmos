@@ -1,4 +1,4 @@
-# Lista de Exercícios 1
+# Lista de Exercícios 1 - Estrutura de seleção
 
 [VOLTAR](/readme.md)
 

@@ -12,7 +12,7 @@
 
 ## Listas de exercícios
 
-1. [Algoritmos de estrutura condicional de decisão (ou seleção)](/lista-exercicios-1.md)
+1. [Algoritmos de estrutura de seleção](/lista-exercicios-1.md)
 
 ## Referências
 
