@@ -6,13 +6,13 @@
 
 - [Estrutura de seleção em C++](/aula-2.md)
 
-<!-- ## Exercícios feitos em aula
+## Exercícios feitos em aula
 
-- [Exercícios](/exercicios.md) -->
+- [Exercícios](/exercicios.md)
 
-## Listas de exercícios
+<!-- ## Listas de exercícios
 
-1. [Algoritmos de estrutura condicional de decisão (ou seleção)](/lista-exercicios-1.md)
+1. [Algoritmos de estrutura condicional de decisão (ou seleção)](/lista-exercicios-1.md) -->
 
 ## Referências
 
