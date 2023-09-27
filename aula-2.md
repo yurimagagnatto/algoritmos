@@ -1,5 +1,7 @@
 # Estrutura de seleção em C++
 
+[VOLTAR](/readme.md)
+
 ## Estruturas de seleção (ou estrutura condicional de decisão, ou expressão condicional)
 
 É uma estrutura de controle que executa um ou mais comandos se a condição testada for verdadeira e, em alguns casos, executa um ou mais comandos se for falsa.
