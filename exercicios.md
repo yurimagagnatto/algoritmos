@@ -44,7 +44,9 @@
     <details>
       <summary>Correção</summary>
 
-      [C++](/exercicios/4-jogo-par-ou-impar.cpp)
+      [C++ (IF e ELSE)](/exercicios/par-ou-impar.cpp)
+
+      [C++ (IF e ELSE IF)](/exercicios/par-ou-impar-else-if.cpp)
 
     </details>
 
