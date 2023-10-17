@@ -91,6 +91,81 @@ switch (day) {
 }
 ```
 
+## IF, ELSE IF e ELSE
+
+Em C++, "if," "else if," e "else" são usados para criar estruturas condicionais que permitem que um programa execute diferentes blocos de código com base em condições específicas. Aqui está uma explicação mais detalhada de como essas construções funcionam em C++:
+
+### IF
+
+A instrução "if" é usada para iniciar um bloco condicional. Ela avalia uma expressão booleana (uma expressão que resulta em verdadeiro ou falso). Se a expressão for verdadeira, o bloco de código associado ao "if" é executado. Se a expressão for falsa, o bloco "if" é ignorado, e a execução continua com a próxima instrução fora do bloco "if".
+
+```cpp
+if (condicao) {
+    // Bloco de código a ser executado se a condição for verdadeira
+}
+```
+
+Exemplo:
+
+```cpp
+int idade = 20;
+if (idade >= 18) {
+    cout << "Você é maior de idade.";
+}
+```
+
+### ELSE IF
+
+A instrução "else if" é usada para verificar uma condição adicional se a condição associada ao "if" for falsa. Você pode ter várias "else if" para lidar com várias alternativas condicionais. O primeiro "else if" cuja condição for verdadeira terá seu bloco de código executado. Se nenhuma condição de "else if" for verdadeira, a execução passará para o bloco "else" ou continuará após a estrutura condicional, se não houver "else".
+
+```cpp
+if (condicao1) {
+    // Bloco de código a ser executado se a condição1 for verdadeira
+} else if (condicao2) {
+    // Bloco de código a ser executado se a condição2 for verdadeira
+}
+```
+
+Exemplo:
+
+```cpp
+int idade = 20;
+if (idade < 18) {
+    cout << "Você é menor de idade.";
+} else if (idade == 18) {
+    cout << "Você tem 18 anos." << endl;
+} else {
+    cout << "Você é maior de idade.";
+}
+```
+
+### ELSE
+
+A instrução "else" é usada como um último recurso em uma estrutura condicional. Ela não tem uma condição associada. O bloco de código "else" é executado quando nenhuma das condições de "if" ou "else if" anteriores é verdadeira. Você pode ter apenas um bloco "else" em uma estrutura condicional.
+
+```cpp
+if (condicao1) {
+    // Bloco de código a ser executado se a condição1 for verdadeira
+} else if (condicao2) {
+    // Bloco de código a ser executado se a condição2 for verdadeira
+} else {
+    // Bloco de código a ser executado se nenhuma das condições anteriores for verdadeira
+}
+```
+
+Exemplo:
+
+```cpp
+int saldo = -100;
+if (saldo < 0) {
+    cout << "Sua conta está no negativo.";
+} else {
+    cout << "Sua conta está em saldo positivo ou zerada.";
+}
+```
+
+Em resumo, em C++, "if" é usado para iniciar uma condição, "else if" é usado para lidar com várias condições alternativas, e "else" é usado como um bloco de código a ser executado quando nenhuma das condições anteriores for verdadeira. Essas construções condicionais são fundamentais para a tomada de decisões em programação em C++.
+
 ## Referências
 
 - LOPES, A.; GARCIA, G. Introdução à programação: 500 algoritmos resolvidos. [s.l.] Campus, 2002.

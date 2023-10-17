@@ -50,6 +50,25 @@
 
     </details>
 
+5. Faça um jogo de Jokenpô.
+
+    - Peça ao usuário que informe se o primeiro jogador escolhe par ou ímpar.
+
+    - Peça ao usuário informar a escolha do primeiro jogador (pedra, papel ou tesoura).
+
+    - Peça ao usuário informar a escolha do segundo jogador (pedra, papel ou tesoura).
+
+    - Mostre qual foi o jogador vencedor ou se deu empate.
+
+    <details>
+      <summary>Correção</summary>
+
+      [6 condições diferentes de vitória, 3 para cada jogador](/exercicios/jokenpo.cpp)
+
+      [2 condições de vitória, uma para cada jogador](/exercicios/jokenpo2.cpp)
+
+    </details>
+
 ## Referências
 
 - [ListaDeExercicios - PythonBrasil](https://wiki.python.org.br/ListaDeExercicios)

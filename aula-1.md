@@ -169,7 +169,7 @@ Uma expressão lógica é aquela em que os operadores são lógicos e os operand
 | disjunção | ou         | \|\|  |
 | negação   | não        | !     |
 
-#### Tabela verdade do operador **&&**
+#### Tabela verdade do operador **&&** (E)
 
 | 1     |        | 2     | Saída     |
 |:-----:|:------:|:-----:|:---------:|
@@ -178,7 +178,7 @@ Uma expressão lógica é aquela em que os operadores são lógicos e os operand
 | true  | **&&** | false | **false** |
 | true  | **&&** | true  | **true**  |
 
-#### Tabela verdade do operador **||**
+#### Tabela verdade do operador **||** (OU)
 
 | 1     |          | 2     | Saída     |
 |:-----:|:--------:|:-----:|:---------:|
@@ -187,7 +187,7 @@ Uma expressão lógica é aquela em que os operadores são lógicos e os operand
 | true  | **\|\|** | false | **true**  |
 | true  | **\|\|** | true  | **true**  |
 
-#### Tabela verdade do operador **!**
+#### Tabela verdade do operador **!** (NÃO)
 
 O operador **!** (não) inverte a saída.
 
@@ -273,6 +273,32 @@ Este comando envia informações ou resultados ao usuário. Ele busca o valor de
 cout << "Olá Mundo!";
 ```
 
+### Concatenar frases com variáveis
+
+```cpp
+int numero_inteiro;
+numero_inteiro = 10;
+cout << "Você escolheu o número " << numero_inteiro << "!";
+```
+
+### Quebrar linha
+
+```cpp
+cout << "Primeira linha." << endl << "Segunda linha.";
+```
+
+ou
+
+```cpp
+cout << "Primeira linha." << "\n" << "Segunda linha.";
+```
+
+ou
+
+```cpp
+cout << "Primeira linha.\nSegunda linha.";
+```
+
 ## Comando de entrada
 
 Este é o comando que permite ao usuário inserir dados, criando uma interação com o computador. Os dados digitados são temporariamente armazenados em um registrador e, posteriormente, copiados para a posição de memória especificada no comando. Lembre-se de que o nome de uma variável representa uma posição de memória.
@@ -280,6 +306,28 @@ Este é o comando que permite ao usuário inserir dados, criando uma interação
 ```cpp
 int numero_inteiro;
 cin >> numero_inteiro;
+```
+
+## Comentários
+
+Os comentários são usados para incluir notas e explicações no código fonte que não são executadas pelo compilador. Comentários são úteis para documentar o código, facilitar a compreensão do programa e fornecer informações aos programadores que leiam o código no futuro. Existem dois tipos principais de comentários em C++:
+
+### Comentários de uma linha
+
+```cpp
+// Este é um comentário de uma linha.
+int idade = 25; // Esta variável armazena a idade.
+```
+
+### Comentários de várias linhas
+
+```cpp
+/*
+Este é um exemplo de um comentário de várias linhas.
+Ele pode se estender por várias linhas.
+É útil para comentários mais longos e explicações detalhadas.
+*/
+int numero = 42;
 ```
 
 ## Referências

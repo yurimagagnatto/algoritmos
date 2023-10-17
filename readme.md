@@ -6,6 +6,8 @@
 
 - [Estrutura de seleção em C++](/aula-2.md)
 
+- [Estruturas de repetição em C++](/aula-3.md)
+
 ## Exercícios feitos em aula
 
 - [Exercícios](/exercicios.md)
