@@ -52,8 +52,6 @@
 
 5. Faça um jogo de Jokenpô.
 
-    - Peça ao usuário que informe se o primeiro jogador escolhe par ou ímpar.
-
     - Peça ao usuário informar a escolha do primeiro jogador (pedra, papel ou tesoura).
 
     - Peça ao usuário informar a escolha do segundo jogador (pedra, papel ou tesoura).
@@ -66,6 +64,26 @@
       [6 condições diferentes de vitória, 3 para cada jogador](/exercicios/jokenpo.cpp)
 
       [2 condições de vitória, uma para cada jogador](/exercicios/jokenpo2.cpp)
+
+    </details>
+
+6. Faça um programa que peça 5 números para o usuário e mostre a soma desses números.
+
+    <details>
+      <summary>Correção</summary>
+
+      [recebendo os 5 números, um após o outro](/exercicios/soma.cpp)
+
+      [utilizando o laço de repetição "FOR"](/exercicios/soma2.cpp)
+
+    </details>
+
+7. Faça um programa que calcule o fatorial de um número inteiro informado pelo usuário.
+
+    <details>
+      <summary>Correção</summary>
+
+      [utilizando o laço de repetição "FOR"](/exercicios/fatorial.cpp)
 
     </details>
 
