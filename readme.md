@@ -16,6 +16,8 @@
 
 1. [Algoritmos de estrutura de seleção](/lista-exercicios-1.md)
 
+2. [Algoritmos de estrutura de repetição](/lista-exercicios-2.md)
+
 ## Referências
 
 - LOPES, A.; GARCIA, G. Introdução à programação: 500 algoritmos resolvidos. [s.l.] Campus, 2002.
