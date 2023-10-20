@@ -87,6 +87,21 @@
 
     </details>
 
+8. -
+
+9. Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
+
+    <details>
+      <summary>Correção</summary>
+
+      [1](/exercicios/9-2.cpp)
+
+      [2](/exercicios/9-3.cpp)
+
+      [3](/exercicios/9-4.cpp)
+
+    </details>
+
 ## Referências
 
 - [ListaDeExercicios - PythonBrasil](https://wiki.python.org.br/ListaDeExercicios)
