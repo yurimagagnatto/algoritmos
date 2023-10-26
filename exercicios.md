@@ -87,7 +87,14 @@
 
     </details>
 
-8. -
+8. Faça um programa que receba um número e mostre todos os números pares entre 0 e o número fornecido.
+
+    <details>
+      <summary>Correção</summary>
+
+      [1](/exercicios/8.cpp)
+
+    </details>
 
 9. Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
 
@@ -99,6 +106,15 @@
       [2](/exercicios/9-3.cpp)
 
       [3](/exercicios/9-4.cpp)
+
+    </details>
+
+10. Faça um programa que leia 5 números e informe o maior número.
+
+    <details>
+      <summary>Correção</summary>
+
+      [1](/exercicios/10.cpp)
 
     </details>
 
