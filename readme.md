@@ -8,6 +8,10 @@
 
 - [Estruturas de repetição em C++](/aula-3.md)
 
+## Provas
+
+- [Prova 1](/prova-1.md)
+
 ## Exercícios feitos em aula
 
 - [Exercícios](/exercicios.md)
