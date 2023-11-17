@@ -118,6 +118,15 @@
 
     </details>
 
+11. Crie um programa que leia 5 números do usuário. Em seguida, exiba os números na ordem em que foram fornecidos.
+
+    <details>
+      <summary>Correção</summary>
+
+      [Utilizando vetor (array)](/exercicios/vetor-1.cpp)
+
+    </details>
+
 ## Referências
 
 - [ListaDeExercicios - PythonBrasil](https://wiki.python.org.br/ListaDeExercicios)
