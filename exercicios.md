@@ -127,6 +127,33 @@
 
     </details>
 
+12. Crie um programa que leia 5 números do usuário. Em seguida, exiba os números na ordem inversa.
+
+    <details>
+      <summary>Correção</summary>
+
+      [Utilizando vetor (array)](/exercicios/vetor-2.cpp)
+
+    </details>
+
+13. Faça um Programa que leia um vetor de 10 caracteres, e diga quantas consoantes foram lidas. Imprima as consoantes.
+
+    <details>
+      <summary>Correção</summary>
+
+      [Utilizando vetor (array)](/exercicios/vetor-3.cpp)
+
+    </details>
+
+14. Faça um Programa que leia 10 números inteiros e armazene-os num vetor. Armazene os números pares em um segundo vetor "PARES" e os números IMPARES em um terceiro vetor "IMPARES". Imprima os três vetores.
+
+    <details>
+      <summary>Correção</summary>
+
+      [Utilizando vetor (array)](/exercicios/vetor-4.cpp)
+
+    </details>
+
 ## Referências
 
 - [ListaDeExercicios - PythonBrasil](https://wiki.python.org.br/ListaDeExercicios)
