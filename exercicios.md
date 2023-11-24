@@ -136,7 +136,16 @@
 
     </details>
 
-13. Faça um Programa que leia um vetor de 10 caracteres, e diga quantas consoantes foram lidas. Imprima as consoantes.
+13. Crie um array (vetor) de caracteres que contenha todas as letras do alfabeto. Imprima o vetor.
+
+    <details>
+      <summary>Correção</summary>
+
+      [Utilizando vetor (array)](/exercicios/vetor-0.cpp)
+
+    </details>
+
+14. Faça um Programa que leia um vetor de 10 caracteres, e diga quantas consoantes foram lidas. Imprima as consoantes.
 
     <details>
       <summary>Correção</summary>
@@ -145,7 +154,7 @@
 
     </details>
 
-14. Faça um Programa que leia 10 números inteiros e armazene-os num vetor. Armazene os números pares em um segundo vetor "PARES" e os números IMPARES em um terceiro vetor "IMPARES". Imprima os três vetores.
+15. Faça um Programa que leia 10 números inteiros e armazene-os num vetor. Armazene os números pares em um segundo vetor "PARES" e os números ímpares em um terceiro vetor "IMPARES". Imprima os três vetores.
 
     <details>
       <summary>Correção</summary>
