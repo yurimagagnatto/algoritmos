@@ -8,6 +8,8 @@
 
 - [Estruturas de repetição em C++](/aula-3.md)
 
+- [Vetores (Arrays)](/aula-4.md)
+
 ## Provas
 
 - [Prova 1](/prova-1.md)
@@ -21,6 +23,8 @@
 1. [Algoritmos de estrutura de seleção](/lista-exercicios-1.md)
 
 2. [Algoritmos de estrutura de repetição](/lista-exercicios-2.md)
+
+3. [Vetores (Arrays)](/lista-exercicios-3.md)
 
 ## Referências
 
