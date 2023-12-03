@@ -165,6 +165,22 @@
 
 16. Faça um Programa que leia dois vetores com 10 elementos cada. Gere um terceiro vetor de 20 elementos, cujos valores deverão ser compostos pelos elementos intercalados dos dois outros vetores.
 
+    <details>
+      <summary>Correção</summary>
+
+      [Utilizando vetor (array)](/exercicios/exercicio-16.cpp)
+
+    </details>
+
+17. Faça um Programa que pergunte ao usuário um número e calcule a tabuada do mesmo.
+
+    <details>
+      <summary>Correção</summary>
+
+      [Utilizando função](/exercicios/exercicio-17.cpp)
+
+    </details>
+
 ## Referências
 
 - [ListaDeExercicios - PythonBrasil](https://wiki.python.org.br/ListaDeExercicios)

@@ -10,6 +10,8 @@
 
 - [Vetores (Arrays)](/aula-4.md)
 
+- [Funções](/aula-5.md)
+
 ## Provas
 
 - [Prova 1](/prova-1.md)
