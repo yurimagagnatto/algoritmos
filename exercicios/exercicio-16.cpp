@@ -5,8 +5,8 @@ int main()
 {
   int tamanho = 10;
 
-  int vetor_a[tamanho]; // 10
-  int vetor_b[tamanho]; // 10
+  int vetor_a[tamanho];     // 10
+  int vetor_b[tamanho];     // 10
   int vetor_c[tamanho * 2]; // 20
 
   // lê os inteiros do primeiro vetor
@@ -26,7 +26,7 @@ int main()
   }
 
   int i_vetor_c = 0; // índice do terceiro vetor
-  // 
+  // intercala o primeiro e o segundo vetor no terceiro
   for (int i = 0; i < tamanho; i++)
   {
     vetor_c[i_vetor_c] = vetor_a[i];
